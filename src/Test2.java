@@ -1,4 +1,4 @@
-//Initializing variables from UserInputs using Scanner Class
+//Initializing variables with UserInputs using Scanner Class
 import java.util.Scanner;
 public class Test2 {
     public static void main(String[] args) {
