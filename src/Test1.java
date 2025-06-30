@@ -1,6 +1,6 @@
 public class Test1{
     public static void main (String [] args){
-        //Declaration and Initialization
+        //Declaration and Initialization of Variables
         int x= 10;
         String name ="Java";
         boolean bool = true;
