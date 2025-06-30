@@ -4,7 +4,7 @@ public class Test1{
         int x= 10;
         String name ="Java";
         boolean bool = true;
-        float y= 2.25;
+        double y= 2.25;
         char z ='A';
 
         //Print Values
